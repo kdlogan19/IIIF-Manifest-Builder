@@ -1,0 +1,229 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "example",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-1.json",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_01/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_01",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-1.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-2.json",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_02/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_02",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-2.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-3.json",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_03/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_03",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-3.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-4.json",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_04/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_04",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-4.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-5.json",
+          "@type": "sc:Canvas",
+          "label": "Page 5",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_05/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_05",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-5.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-6.json",
+          "@type": "sc:Canvas",
+          "label": "Page 6",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_06/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_06",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-6.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-7.json",
+          "@type": "sc:Canvas",
+          "label": "Page 7",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_07/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_07",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-7.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-8.json",
+          "@type": "sc:Canvas",
+          "label": "Page 8",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_08/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_08",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-8.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-9.json",
+          "@type": "sc:Canvas",
+          "label": "Page 9",
+          "height": 500,
+          "width": 500,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_09/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.io/api/image/2.1/OurOwnGayfulRestAPostcolonialArchiveFIXED_Page_09",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "http://ufdcimages.uflib.ufl.edu/UF/00/07/88/91/00001/canvas/page-9.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

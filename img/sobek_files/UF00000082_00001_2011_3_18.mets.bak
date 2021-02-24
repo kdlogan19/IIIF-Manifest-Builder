@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--  widow spiders of Florida ( Book ) -->
+<METS:mets OBJID="UF00000082_00001"
+  xmlns:METS="http://www.loc.gov/METS/"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:sobekcm="http://digital.uflib.ufl.edu/metadata/sobekcm/"
+  xsi:schemaLocation="http://www.loc.gov/METS/
+    http://www.loc.gov/standards/mets/mets.xsd 
+    http://www.loc.gov/mods/v3
+    http://www.loc.gov/mods/v3/mods-3-3.xsd
+    http://digital.uflib.ufl.edu/metadata/sobekcm/
+    http://digital.uflib.ufl.edu/metadata/sobekcm/sobekcm.xsd
+">
+<METS:metsHdr CREATEDATE="2011-01-20T11:36:46Z" ID="UF00000082_00001" LASTMODDATE="2011-01-20T11:36:46Z" RECORDSTATUS="NEW">
+<METS:agent ROLE="CREATOR" TYPE="ORGANIZATION"> 
+<METS:name>UF</METS:name>
+</METS:agent>
+<METS:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER"> 
+<METS:name>PreQC Application, 4.9.2</METS:name>
+</METS:agent>
+</METS:metsHdr>
+<METS:dmdSec ID="DMD1">
+<METS:mdWrap MDTYPE="MODS"  MIMETYPE="text/xml" LABEL="MODS Metadata">
+<METS:xmlData>
+<mods:mods>
+<mods:classification authority="lcc">QL434 .A75 vol.2</mods:classification>
+<mods:genre authority="marcgt">bibliography</mods:genre>
+<mods:genre authority="marcgt">non-fiction</mods:genre>
+<mods:identifier type="LTQF">AAA0024</mods:identifier>
+<mods:identifier type="NOTIS">AAA8757</mods:identifier>
+<mods:identifier type="AlephBibNum">000007326</mods:identifier>
+<mods:identifier type="OCLC">01736905</mods:identifier>
+<mods:language>
+<mods:languageTerm type="text">English</mods:languageTerm>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:location>
+<mods:physicalLocation>University of Florida</mods:physicalLocation>
+<mods:physicalLocation type="code">UF</mods:physicalLocation>
+</mods:location>
+<mods:name type="personal">
+<mods:namePart>McCrone, John D</mods:namePart>
+<mods:namePart type="given">John D</mods:namePart>
+<mods:namePart type="family">McCrone</mods:namePart>
+<mods:role>
+<mods:roleTerm>Main Entity</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name type="personal">
+<mods:namePart>Stone, Karl J</mods:namePart>
+<mods:namePart type="given">Karl J</mods:namePart>
+<mods:namePart type="family">Stone</mods:namePart>
+<mods:role>
+<mods:roleTerm type="text">joint author</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name type="corporate">
+<mods:namePart>Florida -- Division of Plant Industry</mods:namePart>
+</mods:name>
+<mods:note type="bibliography">Includes bibliography.</mods:note>
+<mods:note type="additional physical form">Electronic version available on the World Wide Web as part of the Linking Florida's Natural Heritage Collection.</mods:note>
+<mods:note type="statement of responsibility">[by] John D. McCrone [and] Karl J. Stone.</mods:note>
+<mods:originInfo>
+<mods:publisher>Florida Dept. of Agriculture, Division of Plant Industry</mods:publisher>
+<mods:place>
+<mods:placeTerm type="code" authority="marccountry">flu</mods:placeTerm>
+</mods:place>
+<mods:dateIssued encoding="marc">&lt;1965&gt;</mods:dateIssued>
+<mods:dateIssued encoding="marc" point="start">1965</mods:dateIssued>
+</mods:originInfo>
+<mods:recordInfo>
+<mods:recordIdentifier source="ufdc">(UFDC) UF00000082_00001</mods:recordIdentifier>
+<mods:recordCreationDate encoding="marc">751027</mods:recordCreationDate>
+<mods:recordOrigin>Imported from (ALEPH)000007326</mods:recordOrigin>
+<mods:recordContentSource>University of Florida</mods:recordContentSource>
+<mods:recordContentSource authority="marcorg">JPL</mods:recordContentSource>
+<mods:recordContentSource authority="marcorg">FUA</mods:recordContentSource>
+<mods:languageOfCataloging>
+<mods:languageTerm type="text">English</mods:languageTerm>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:relatedItem type="original">
+<mods:physicalDescription>
+<mods:extent>1 v. (unpaged) : col. ill. ; 27 cm.</mods:extent>
+</mods:physicalDescription>
+</mods:relatedItem>
+<mods:relatedItem type="series">
+<mods:titleInfo>
+<mods:title>Arthropods of Florida and neighboring land areas</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="Enum1">
+<mods:caption>Volume 2</mods:caption>
+</mods:detail>
+</mods:part>
+</mods:relatedItem>
+<mods:subject ID="SUBJ650_1" authority="lcsh">
+<mods:topic>Spiders</mods:topic>
+<mods:geographic>Florida</mods:geographic>
+</mods:subject>
+<mods:subject ID="SUBJ650_2" authority="lcsh">
+<mods:topic>Arachnida</mods:topic>
+<mods:geographic>Florida</mods:geographic>
+</mods:subject>
+<mods:titleInfo>
+<mods:nonSort>The </mods:nonSort>
+<mods:title>widow spiders of Florida</mods:title>
+</mods:titleInfo>
+<mods:typeOfResource>text</mods:typeOfResource>
+</mods:mods>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:dmdSec>
+<METS:dmdSec ID="DMD2">
+<METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SobekCM" MIMETYPE="text/xml" LABEL="SobekCM Custom Metadata">
+<METS:xmlData>
+<sobekcm:procParam>
+</sobekcm:procParam>
+<sobekcm:bibDesc>
+<sobekcm:BibID>UF00000082</sobekcm:BibID>
+<sobekcm:VID>00001</sobekcm:VID>
+<sobekcm:EncodingLevel>I</sobekcm:EncodingLevel>
+<sobekcm:Publisher>
+<sobekcm:Name>Florida Dept. of Agriculture, Division of Plant Industry</sobekcm:Name>
+<sobekcm:PlaceTerm type="text">Gainesville</sobekcm:PlaceTerm>
+</sobekcm:Publisher>
+<sobekcm:Source>
+<sobekcm:statement code="UF">University of Florida</sobekcm:statement>
+</sobekcm:Source>
+<sobekcm:Type>Book</sobekcm:Type>
+<sobekcm:SortDate>-1</sobekcm:SortDate>
+</sobekcm:bibDesc>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:dmdSec>
+<METS:structMap> <METS:div /> </METS:structMap>
+</METS:mets>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01723nam  2200445Ia 4500</leader>
+    <controlfield tag="001">UF00000082_00001</controlfield>
+    <controlfield tag="005">20110120113646.0</controlfield>
+    <controlfield tag="006">m     o  d        </controlfield>
+    <controlfield tag="007">cr  n ---ma mp</controlfield>
+    <controlfield tag="008">110120s1965    flua    ob    000 0 eng d</controlfield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">AAA0024</subfield>
+      <subfield code="2">LTQF</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+      <subfield code="a">000007326</subfield>
+      <subfield code="2">AlephBibNum</subfield>
+    </datafield>
+    <datafield tag="035" ind1="9" ind2=" ">
+      <subfield code="a">AAA8757</subfield>
+      <subfield code="b">UF</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FUG</subfield>
+      <subfield code="c">FUG</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">QL434 .A75 vol.2</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">McCrone, John D.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The widow spiders of Florida</subfield>
+      <subfield code="h">[electronic resource] /</subfield>
+      <subfield code="c">[by] John D. McCrone [and] Karl J. Stone.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Gainesville :</subfield>
+      <subfield code="b">Florida Dept. of Agriculture, Division of Plant Industry</subfield>
+      <subfield code="c">&lt;1965&gt;.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 v. (unpaged) :</subfield>
+      <subfield code="b">col. ill. ;</subfield>
+      <subfield code="c">27 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1=" " ind2=" ">
+      <subfield code="a">Arthropods of Florida and neighboring land areas.</subfield>
+    </datafield>
+    <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliography.</subfield>
+    </datafield>
+    <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Electronic version available on the World Wide Web as part of the Linking Florida's Natural Heritage Collection.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Gainesville, Fla. :</subfield>
+      <subfield code="c">University of Florida, George A. Smathers Libraries,</subfield>
+      <subfield code="d">2011.</subfield>
+      <subfield code="f">(University of Florida Digital Collections)</subfield>
+      <subfield code="n">Mode of access: World Wide Web.</subfield>
+      <subfield code="n">System requirements: Internet connectivity; Web browser software.</subfield>
+    </datafield>
+    <datafield tag="535" ind1="1" ind2=" ">
+      <subfield code="a">University of Florida.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Spiders</subfield>
+      <subfield code="z">Florida.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Arachnida</subfield>
+      <subfield code="z">Florida.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Stone, Karl J,</subfield>
+      <subfield code="e">joint author.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Florida</subfield>
+      <subfield code="b">Division of Plant Industry.</subfield>
+    </datafield>
+    <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="c">Original</subfield>
+      <subfield code="w">(OCoLC)01736905</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">University of Florida Digital Collections.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">History and Heritage Collections.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Sciences Collections.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Florida History &amp; Heritage Collections.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Sciences and Technologies.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Florida Environments Online.</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Florida PALMM Collection.</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+      <subfield code="a">SUS01:;:;:</subfield>
+      <subfield code="b">UFDC</subfield>
+      <subfield code="c">History and Heritage Collections</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://ufdc.ufl.edu/UF00000082/00001</subfield>
+      <subfield code="y">Click here for full text</subfield>
+    </datafield>
+    <datafield tag="992" ind1="0" ind2="4">
+      <subfield code="a">http://ufdcimages.uflib.ufl.edu/UF/00/00/00/82/00001/00001thm.jpg</subfield>
+    </datafield>
+    <datafield tag="997" ind1=" " ind2=" ">
+      <subfield code="a">History and Heritage Collections</subfield>
+    </datafield>
+  </record>
+</collection>

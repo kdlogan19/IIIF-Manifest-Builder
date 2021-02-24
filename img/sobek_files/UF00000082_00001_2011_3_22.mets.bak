@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--  widow spiders of Florida ( Book ) -->
+<METS:mets OBJID="UF00000082_00001"
+  xmlns:METS="http://www.loc.gov/METS/"
+  xmlns:mods="http://www.loc.gov/mods/v3"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:sobekcm="http://digital.uflib.ufl.edu/metadata/sobekcm/"
+  xsi:schemaLocation="http://www.loc.gov/METS/
+    http://www.loc.gov/standards/mets/mets.xsd 
+    http://www.loc.gov/mods/v3
+    http://www.loc.gov/mods/v3/mods-3-3.xsd
+    http://digital.uflib.ufl.edu/metadata/sobekcm/
+    http://digital.uflib.ufl.edu/metadata/sobekcm/sobekcm.xsd
+">
+<METS:metsHdr CREATEDATE="2011-01-20T11:36:46Z" ID="UF00000082_00001" LASTMODDATE="2011-01-20T11:36:46Z" RECORDSTATUS="PARTIAL">
+<METS:agent ROLE="CREATOR" TYPE="ORGANIZATION"> 
+<METS:name>UF</METS:name>
+</METS:agent>
+<METS:agent OTHERTYPE="SOFTWARE" ROLE="CREATOR" TYPE="OTHER"> 
+<METS:name>PreQC Application, 4.9.2</METS:name>
+</METS:agent>
+</METS:metsHdr>
+<METS:dmdSec ID="DMD1">
+<METS:mdWrap MDTYPE="MODS"  MIMETYPE="text/xml" LABEL="MODS Metadata">
+<METS:xmlData>
+<mods:mods>
+<mods:classification authority="lcc">QL434 .A75 vol.2</mods:classification>
+<mods:genre authority="marcgt">bibliography</mods:genre>
+<mods:genre authority="marcgt">non-fiction</mods:genre>
+<mods:identifier type="LTQF">AAA0024</mods:identifier>
+<mods:identifier type="NOTIS">AAA8757</mods:identifier>
+<mods:identifier type="AlephBibNum">000007326</mods:identifier>
+<mods:identifier type="OCLC">01736905</mods:identifier>
+<mods:language>
+<mods:languageTerm type="text">English</mods:languageTerm>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:location>
+<mods:physicalLocation>University of Florida</mods:physicalLocation>
+<mods:physicalLocation type="code">UF</mods:physicalLocation>
+</mods:location>
+<mods:name type="personal">
+<mods:namePart>McCrone, John D</mods:namePart>
+<mods:namePart type="given">John D</mods:namePart>
+<mods:namePart type="family">McCrone</mods:namePart>
+<mods:role>
+<mods:roleTerm>Main Entity</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name type="personal">
+<mods:namePart>Stone, Karl J</mods:namePart>
+<mods:namePart type="given">Karl J</mods:namePart>
+<mods:namePart type="family">Stone</mods:namePart>
+<mods:role>
+<mods:roleTerm type="text">joint author</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name type="corporate">
+<mods:namePart>Florida -- Division of Plant Industry</mods:namePart>
+</mods:name>
+<mods:note type="bibliography">Includes bibliography.</mods:note>
+<mods:note type="additional physical form">Electronic version available on the World Wide Web as part of the Linking Florida's Natural Heritage Collection.</mods:note>
+<mods:note type="statement of responsibility">[by] John D. McCrone [and] Karl J. Stone.</mods:note>
+<mods:originInfo>
+<mods:publisher>Florida Dept. of Agriculture, Division of Plant Industry</mods:publisher>
+<mods:place>
+<mods:placeTerm type="code" authority="marccountry">flu</mods:placeTerm>
+</mods:place>
+<mods:dateIssued encoding="marc">&lt;1965&gt;</mods:dateIssued>
+<mods:dateIssued encoding="marc" point="start">1965</mods:dateIssued>
+</mods:originInfo>
+<mods:recordInfo>
+<mods:recordIdentifier source="ufdc">UF00000082_00001</mods:recordIdentifier>
+<mods:recordCreationDate encoding="marc">751027</mods:recordCreationDate>
+<mods:recordOrigin>Imported from (ALEPH)000007326</mods:recordOrigin>
+<mods:recordContentSource>University of Florida</mods:recordContentSource>
+<mods:recordContentSource authority="marcorg">JPL</mods:recordContentSource>
+<mods:recordContentSource authority="marcorg">FUA</mods:recordContentSource>
+<mods:languageOfCataloging>
+<mods:languageTerm type="text">English</mods:languageTerm>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:relatedItem type="original">
+<mods:physicalDescription>
+<mods:extent>1 v. (unpaged) : col. ill. ; 27 cm.</mods:extent>
+</mods:physicalDescription>
+</mods:relatedItem>
+<mods:relatedItem type="series">
+<mods:titleInfo>
+<mods:title>Arthropods of Florida and neighboring land areas</mods:title>
+</mods:titleInfo>
+<mods:part>
+<mods:detail type="Enum1">
+<mods:caption>Volume 2</mods:caption>
+</mods:detail>
+</mods:part>
+</mods:relatedItem>
+<mods:subject ID="SUBJ650_1" authority="lcsh">
+<mods:topic>Spiders</mods:topic>
+<mods:geographic>Florida</mods:geographic>
+</mods:subject>
+<mods:subject ID="SUBJ650_2" authority="lcsh">
+<mods:topic>Arachnida</mods:topic>
+<mods:geographic>Florida</mods:geographic>
+</mods:subject>
+<mods:titleInfo>
+<mods:nonSort>The </mods:nonSort>
+<mods:title>widow spiders of Florida</mods:title>
+</mods:titleInfo>
+<mods:typeOfResource>text</mods:typeOfResource>
+</mods:mods>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:dmdSec>
+<METS:dmdSec ID="DMD2">
+<METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SobekCM" MIMETYPE="text/xml" LABEL="SobekCM Custom Metadata">
+<METS:xmlData>
+<sobekcm:bibDesc>
+<sobekcm:BibID>UF00000082</sobekcm:BibID>
+<sobekcm:VID>00001</sobekcm:VID>
+<sobekcm:EncodingLevel>I</sobekcm:EncodingLevel>
+<sobekcm:Publisher>
+<sobekcm:Name>Florida Dept. of Agriculture, Division of Plant Industry</sobekcm:Name>
+<sobekcm:PlaceTerm type="text">Gainesville</sobekcm:PlaceTerm>
+</sobekcm:Publisher>
+<sobekcm:Source>
+<sobekcm:statement code="UF">University of Florida</sobekcm:statement>
+</sobekcm:Source>
+<sobekcm:Type>Book</sobekcm:Type>
+</sobekcm:bibDesc>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:dmdSec>
+<METS:amdSec>
+<METS:techMD ID="TECHMD1">
+<METS:mdWrap MDTYPE="OTHER" OTHERMDTYPE="SobekCM" MIMETYPE="text/xml" LABEL="SobekCM File Technical Details">
+<METS:xmlData>
+<sobekcm:FileInfo>
+<sobekcm:File fileid="JP21" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP22" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP23" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP24" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP25" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP26" width="2122" height="2783" /> 
+<sobekcm:File fileid="JP27" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP28" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP29" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP210" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP211" width="2120" height="2783" /> 
+<sobekcm:File fileid="JP212" width="2120" height="2783" /> 
+<sobekcm:File fileid="JPEG1" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG2" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG3" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG4" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG5" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG6" width="630" height="826" /> 
+<sobekcm:File fileid="JPEG7" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG8" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG9" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG10" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG11" width="630" height="827" /> 
+<sobekcm:File fileid="JPEG12" width="630" height="827" /> 
+</sobekcm:FileInfo>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:techMD>
+</METS:amdSec>
+<METS:fileSec> 
+<METS:fileGrp USE="reference" > 
+<METS:file GROUPID="G1" ID="JP21" MIMETYPE="image/jp2" SIZE="18559"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00001.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G2" ID="JP22" MIMETYPE="image/jp2" SIZE="4316"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00002.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G3" ID="JP23" MIMETYPE="image/jp2" SIZE="26400"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00003.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G4" ID="JP24" MIMETYPE="image/jp2" SIZE="67391"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00004.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G5" ID="JP25" MIMETYPE="image/jp2" SIZE="109799"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00005.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G6" ID="JP26" MIMETYPE="image/jp2" SIZE="738261"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00006.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G7" ID="JP27" MIMETYPE="image/jp2" SIZE="153736"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00007.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G8" ID="JP28" MIMETYPE="image/jp2" SIZE="157465"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00008.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G9" ID="JP29" MIMETYPE="image/jp2" SIZE="101978"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00009.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G10" ID="JP210" MIMETYPE="image/jp2" SIZE="56308"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00010.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G11" ID="JP211" MIMETYPE="image/jp2" SIZE="14097"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00011.jp2" /> 
+</METS:file> 
+<METS:file GROUPID="G12" ID="JP212" MIMETYPE="image/jp2" SIZE="5468"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00012.jp2" /> 
+</METS:file> 
+</METS:fileGrp> 
+<METS:fileGrp USE="reference" > 
+<METS:file GROUPID="G1" ID="JPEG1" MIMETYPE="image/jpeg" SIZE="27600"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00001.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G2" ID="JPEG2" MIMETYPE="image/jpeg" SIZE="3678"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00002.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G3" ID="JPEG3" MIMETYPE="image/jpeg" SIZE="37614"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00003.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G4" ID="JPEG4" MIMETYPE="image/jpeg" SIZE="87517"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00004.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G5" ID="JPEG5" MIMETYPE="image/jpeg" SIZE="132447"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00005.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G6" ID="JPEG6" MIMETYPE="image/jpeg" SIZE="136834"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00006.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G7" ID="JPEG7" MIMETYPE="image/jpeg" SIZE="186417"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00007.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G8" ID="JPEG8" MIMETYPE="image/jpeg" SIZE="189559"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00008.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G9" ID="JPEG9" MIMETYPE="image/jpeg" SIZE="124292"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00009.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G10" ID="JPEG10" MIMETYPE="image/jpeg" SIZE="72766"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00010.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G11" ID="JPEG11" MIMETYPE="image/jpeg" SIZE="12799"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00011.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G12" ID="JPEG12" MIMETYPE="image/jpeg" SIZE="5643"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00012.jpg" /> 
+</METS:file> 
+</METS:fileGrp> 
+<METS:fileGrp USE="reference" > 
+<METS:file GROUPID="G1" ID="THUMB1" MIMETYPE="image/jpeg" SIZE="3575"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00001thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G2" ID="THUMB2" MIMETYPE="image/jpeg" SIZE="568"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00002thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G3" ID="THUMB3" MIMETYPE="image/jpeg" SIZE="4481"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00003thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G4" ID="THUMB4" MIMETYPE="image/jpeg" SIZE="6601"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00004thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G5" ID="THUMB5" MIMETYPE="image/jpeg" SIZE="8064"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00005thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G6" ID="THUMB6" MIMETYPE="image/jpeg" SIZE="12373"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00006thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G7" ID="THUMB7" MIMETYPE="image/jpeg" SIZE="11655"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00007thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G8" ID="THUMB8" MIMETYPE="image/jpeg" SIZE="11260"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00008thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G9" ID="THUMB9" MIMETYPE="image/jpeg" SIZE="7662"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00009thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G10" ID="THUMB10" MIMETYPE="image/jpeg" SIZE="5778"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00010thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G11" ID="THUMB11" MIMETYPE="image/jpeg" SIZE="1462"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00011thm.jpg" /> 
+</METS:file> 
+<METS:file GROUPID="G12" ID="THUMB12" MIMETYPE="image/jpeg" SIZE="881"> 
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="SYSTEM" xlink:href="00012thm.jpg" /> 
+</METS:file> 
+</METS:fileGrp> 
+</METS:fileSec> 
+<METS:structMap ID="STRUCT1" TYPE="physical"> 
+<METS:div DMDID="DMD1 DMD2" LABEL="widow spiders of Florida" ORDER="0" TYPE="main"> 
+<METS:div ID="PDIV1" ORDER="1" TYPE="Main"> 
+<METS:div ID="PAGE1" ORDER="1" TYPE="Page"> 
+<METS:fptr FILEID="JP21" /> 
+<METS:fptr FILEID="JPEG1" /> 
+<METS:fptr FILEID="THUMB1" /> 
+</METS:div> 
+<METS:div ID="PAGE2" ORDER="2" TYPE="Page"> 
+<METS:fptr FILEID="JPEG2" /> 
+<METS:fptr FILEID="JP22" /> 
+<METS:fptr FILEID="THUMB2" /> 
+</METS:div> 
+<METS:div ID="PAGE3" ORDER="3" TYPE="Page"> 
+<METS:fptr FILEID="JPEG3" /> 
+<METS:fptr FILEID="JP23" /> 
+<METS:fptr FILEID="THUMB3" /> 
+</METS:div> 
+<METS:div ID="PAGE4" ORDER="4" TYPE="Page"> 
+<METS:fptr FILEID="JPEG4" /> 
+<METS:fptr FILEID="JP24" /> 
+<METS:fptr FILEID="THUMB4" /> 
+</METS:div> 
+<METS:div ID="PAGE5" ORDER="5" TYPE="Page"> 
+<METS:fptr FILEID="JPEG5" /> 
+<METS:fptr FILEID="JP25" /> 
+<METS:fptr FILEID="THUMB5" /> 
+</METS:div> 
+<METS:div ID="PAGE6" ORDER="6" TYPE="Page"> 
+<METS:fptr FILEID="JPEG6" /> 
+<METS:fptr FILEID="JP26" /> 
+<METS:fptr FILEID="THUMB6" /> 
+</METS:div> 
+<METS:div ID="PAGE7" ORDER="7" TYPE="Page"> 
+<METS:fptr FILEID="JPEG7" /> 
+<METS:fptr FILEID="JP27" /> 
+<METS:fptr FILEID="THUMB7" /> 
+</METS:div> 
+<METS:div ID="PAGE8" ORDER="8" TYPE="Page"> 
+<METS:fptr FILEID="JPEG8" /> 
+<METS:fptr FILEID="JP28" /> 
+<METS:fptr FILEID="THUMB8" /> 
+</METS:div> 
+<METS:div ID="PAGE9" ORDER="9" TYPE="Page"> 
+<METS:fptr FILEID="JPEG9" /> 
+<METS:fptr FILEID="JP29" /> 
+<METS:fptr FILEID="THUMB9" /> 
+</METS:div> 
+<METS:div ID="PAGE10" ORDER="10" TYPE="Page"> 
+<METS:fptr FILEID="JPEG10" /> 
+<METS:fptr FILEID="JP210" /> 
+<METS:fptr FILEID="THUMB10" /> 
+</METS:div> 
+<METS:div ID="PAGE11" ORDER="11" TYPE="Page"> 
+<METS:fptr FILEID="JPEG11" /> 
+<METS:fptr FILEID="JP211" /> 
+<METS:fptr FILEID="THUMB11" /> 
+</METS:div> 
+<METS:div ID="PAGE12" ORDER="12" TYPE="Page"> 
+<METS:fptr FILEID="JPEG12" /> 
+<METS:fptr FILEID="JP212" /> 
+<METS:fptr FILEID="THUMB12" /> 
+</METS:div> 
+</METS:div> 
+</METS:div>
+</METS:structMap>
+</METS:mets>
